@@ -1,4 +1,4 @@
---Readme document for *YOUR NAME*, *YOUR_EMAIL@uci.edu*--
+--Readme document for Harvey Tan harveyyt@uci.edu
 
 A reminder on academic integrity, as described in the syllabus.
 
@@ -39,6 +39,9 @@ Talking to classmates about class material, assignment requirements, etc. is a g
 
 
 4. How long, in hours, did it take you to complete this assignment?
+Sessions
+Oct 5, 2026
+1:37pm - 
 
 
 

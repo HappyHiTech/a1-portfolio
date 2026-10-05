@@ -1,0 +1,5 @@
+.navBar {
+  border: 1px dashed blue;
+
+  display: flex;
+}
